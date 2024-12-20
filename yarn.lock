@@ -25429,9 +25429,9 @@ synckit@^0.9.1:
     tslib "^2.6.2"
 
 systeminformation@^5.7:
-  version "5.21.20"
-  resolved "https://registry.npmmirror.com/systeminformation/-/systeminformation-5.21.20.tgz#16bd0d0c4118d00e670409a1f592ba7043159d2c"
-  integrity sha512-AyS1fNc+MDoAJtFknFbbo587H8h6yejJwM+H9rVusnOToIEkiMehMyD5JM7o3j55Cto20MawIZrcgNMgd4BfOQ==
+  version "5.23.14"
+  resolved "https://registry.npmmirror.com/systeminformation/-/systeminformation-5.23.14.tgz#f8b0064cd62710535375c95f167d99acc5c68854"
+  integrity sha512-mUHEuDQJJOpphvjcIrTY0iwLnoNo/qotr6SuN7v0ANOO0L3j89mfCrEuIVheS/9S9KGRt4Osqxh9GoF7BX49UA==
 
 systemjs@^6.14.1:
   version "6.14.2"
